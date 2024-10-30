@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">List Kotlin</string>
+    <string name="listview_kotlin">Listview Kotlin</string>
+    <string name="back">Back</string>
+    <string name="show_details">Show Details</string>
+</resources>
